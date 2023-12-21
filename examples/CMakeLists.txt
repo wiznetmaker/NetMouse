@@ -1,0 +1,2 @@
+add_subdirectory(Multicore_client)
+add_subdirectory(ili9341)
